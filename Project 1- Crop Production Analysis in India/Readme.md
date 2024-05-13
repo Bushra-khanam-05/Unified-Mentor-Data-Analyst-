@@ -1,5 +1,6 @@
-#Crop Production Analysis in India
-##Problem Statement
+# Crop Production Analysis in India
+
+## Problem Statement
 The Agriculture business domain, as a vital part of the overall supply chain, is
 expected to highly evolve in the upcoming years via the developments, which are
 taking place on the side of the Future Internet. This paper presents a novel
@@ -12,7 +13,8 @@ predict crop production and find important insights highlighting key indicators 
 metrics that influence crop production.
 
 
-##Dataset:
+## Dataset:
 https://drive.google.com/file/d/1b3E1vpDSYpHe8YlNs3jkt30Lx6acf0Uo/view
 
-##Dashboard created in Power BI
+## Project Dashboard:
+created in Power BI

@@ -1,4 +1,4 @@
-#Big Game Census Analytics
+# Big Game Census Analytics
 ## Problem Statement:
 
 This Big Game Census data visualization takes a fun look at where Super Bowl 52
@@ -14,5 +14,8 @@ Identify fun facts you've found within this data and/or data visualization, and 
 swayed your rooting interest in the game?
 Share your ideas for a fun data visualization involving interesting data points.
 
-#Dataset:
+# Dataset:
 https://drive.google.com/file/d/1qwM7iTEiby3npvtz-7hcX5-iNt1RmNjb/view
+
+## Project Dashboard:
+Dashboard Created in Power BI

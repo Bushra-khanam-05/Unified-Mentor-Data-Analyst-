@@ -1,5 +1,5 @@
-#Data Visualization of Bird Strikes between 2000 – 2011
-#Problem Statement:
+# Data Visualization of Bird Strikes between 2000 – 2011
+## Problem Statement:
 Transport and communication are in the crucial domain in the field of analytics.
 Environmental impacts and safety are, nowadays, two major concerns of the scientific
 community with respect to transport scenarios and to the ever-growing urban areas.
@@ -19,8 +19,8 @@ take-off, initial climb, approach and landing phases due to the greater numbers 
 in flight at lower levels. To have a closer look the following document visually depicts
 the data collected on Bird Strikes by FAA between 2000-2011
 
-## Dataset:
+# Dataset:
 https://docs.google.com/spreadsheets/d/1PF1PQ4-qg4ySrtyOXiF6SFGX7P0Qfl_r/edit#gid=1443108996
 
 #Dashboard:
-created  using Power BI
+Project Dashboard created  using Power BI
